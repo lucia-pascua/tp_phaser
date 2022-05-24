@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\tp portfolio\\tp-portfolio"
+		},
+		{
+			"path": "..\\modulo 2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tp_phaser",
+		"cSpell.language": "en,es-ES"
+	}
+}
