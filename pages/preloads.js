@@ -7,7 +7,6 @@ export class preloads extends Phaser.Scene {
     preload(){
         this.load.image('sky', './assets/sky.png');
         this.load.image('ground', './assets/platform.png');
-        this.load.image('obstacle', './assets/platform_obstacle.png');
         this.load.image('star' , './assets/star.png');
         this.load.image('special_star' , './assets/special_star.png');
         this.load.image('bomb', './assets/bomb.png');
